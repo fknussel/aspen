@@ -1,0 +1,10 @@
+{
+  "name": "aspen",
+  "version": "0.0.0",
+  "description": "Add tracks to Spotify playlists",
+  "main": "index.js",
+  "repository": "https://github.com/fknussel/aspen.git",
+  "author": "Federico Knüssel <fknussel@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
